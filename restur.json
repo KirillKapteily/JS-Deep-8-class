@@ -1,0 +1,14 @@
+[
+    {
+        "name": "fried fish with mashed potates",
+        "description": "Super cool dish",
+        "price": "7$",
+        "ingridients": "Salmon, potatoes, salt, pepper"
+    },
+    {
+       "name": "salad with seafood",
+        "description": "Super dish",
+        "price": "10$",
+        "ingridients": "some sea food, cucumber,tomatos , salad, salt, peper" 
+    }
+]
